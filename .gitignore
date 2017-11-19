@@ -1,3 +1,4 @@
+awsrc
 .terraform
 *.tfstate
 *.tfstate.backup
